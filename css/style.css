@@ -1,0 +1,277 @@
+.banner{
+    width: 1600px;
+    height: 808px;
+    left: 1600px;
+    top: 808px;
+    background: url(../images/banner/banner1.png);
+   
+}
+
+.btn-primary{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    font-family: 'Work Sans';
+    font-style: normal;
+
+    background: #F15B22;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.banner_title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+}
+
+.banner_description{
+    position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: right;
+
+/* Dark 02 */
+
+color: #444343;
+}
+.middle{
+    display: flex;
+}
+.middle_title{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    left: 862px;
+    top: 1000px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    /* Dark 01 */
+
+    color: #151414;
+}
+
+.middle_description{
+    display:flex;
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1150px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+
+.group_vector{
+    position: absolute;
+    left: 16.67%;
+    right: 16.67%;
+    top: 25%;
+    bottom: 29.17%;
+
+border: 2px solid #16D887;
+}
+.group_li{
+    position: absolute;
+width: 315px;
+height: 26px;
+left: 850px;
+top: 1270px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+/* Dark 02 */
+
+color: #444343;
+}
+.img{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:395px;
+    top: 1800px;
+}
+.my-plan{
+    display: flex;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+
+
+}
+.heading{
+    display: flex;
+    position: absolute;
+width: 179px;
+height: 100px;
+left: 700px;
+top: 1690px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 47px;
+/* identical to box height */
+
+
+/* Dark 01 */
+
+color: #151414;
+
+}
+.middle_titles{
+    position: absolute;
+width: 437px;
+height: 185.3px;
+left: 330px;
+top: 1910px;
+
+}
+.middle_descript{
+    position: absolute;
+width: 493.96px;
+height: 197.26px;
+left:400px;
+top: 1895px;
+color: gray;
+}
+
+.img-2{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:620px;
+    top: 1800px;
+}
+.middle_titl{
+    position: absolute;
+    width: 437px;
+    height: 185.3px;
+    left: 610px;
+    top: 1910px;
+}
+.middle_descripts{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:630px;
+    top: 1895px;
+    color: gray;
+}
+.img-3{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:850px;
+    top: 1800px;
+}
+.title-sh{
+    position: absolute;
+    width: 437px;
+    height: 185.3px;
+    left: 800px;
+    top: 1910px;
+}
+.title-shs{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:860px;
+    top: 1895px;
+    color: gray;
+}
+.img-4{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:1050px;
+    top: 1800px;
+}
+.middl_title{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:1050px;
+    top: 1908px;
+}
+.middl_descripts{
+    position: absolute;
+    width: 493.96px;
+    height: 197.26px;
+    left:1050px;
+    top: 1895px;
+    color: gray;
+}
+.final-img{
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2150.26px;
+background-image: url(../images/watch.png);
+background: url(../images/watch.png);;
+background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+border-radius: 8px;
+
+}
+.img-title{
+    color: #FFFFFF;
+}
+.btn-primary-2{
+    position: absolute;
+    padding: 10px;
+    font-family: 'Work Sans';
+    font-style: normal;
+
+    background: #0ce048;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+.footer-area{
+    position: absolute;
+width: 1400px;
+height: 577px;
+left: 230px;
+top: 2500.26px;
+color: #FFFFFF;
+background: #151414;
+}
+
+
